@@ -1,0 +1,8 @@
+{
+  "name": "AWS Role Switch",
+  "short_name": "AWS Switch",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#232f3e"
+}
